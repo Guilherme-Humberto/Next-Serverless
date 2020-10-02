@@ -16,10 +16,10 @@ export const TitleForm = styled.p`
 `;
 
 export const DescForm = styled.p`
-    font-size: 25px;
+    font-size: 18px;
     text-align: center;
     font-weight: bold;
-    max-width: 600px;
+    max-width: 500px;
     margin: 10px 0;
 `;
 
