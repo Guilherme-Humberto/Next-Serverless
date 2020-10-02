@@ -33,7 +33,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [x] Styled-Components
 - [x] Next-Images
 
-<img width = 450px align = "left" src="https://user-images.githubusercontent.com/55901431/94936760-1007e580-04a5-11eb-9135-9f9a1a83fe42.png"/>
-<img width = 450px align = "right" src="https://user-images.githubusercontent.com/55901431/94936799-20b85b80-04a5-11eb-860c-2b029a85457b.png"/>
+<img src="https://user-images.githubusercontent.com/55901431/94936760-1007e580-04a5-11eb-9135-9f9a1a83fe42.png"/>
+<img src="https://user-images.githubusercontent.com/55901431/94936799-20b85b80-04a5-11eb-860c-2b029a85457b.png"/>
 
 
