@@ -34,7 +34,7 @@ const Components: React.FC = () => {
   return (
       <Container>
           <TitleForm>Cadastre-se</TitleForm>
-          <DescForm>Arquitetura Serverless, ou “computação sem servidores”, é uma arquitetura de computação orientada a eventos.</DescForm>
+          <DescForm>A criação de aplicativos sem servidor significa que os desenvolvedores podem se concentrar no principal produto, sem se preocupar com o gerenciamento e a operação de servidores nem tempos de execução, seja na nuvem ou no ambiente local.</DescForm>
           <ContainerForm>
             <LabelForm>Nome Completo</LabelForm>
             <Input onChange={(e) => setName(e.target.value)} placeholder="Nome Completo"/>
